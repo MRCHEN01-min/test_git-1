@@ -2,6 +2,22 @@ test1.txt(my first commit test1.txt)
 hot_fix (my hot_fix commit)
 test2.txt(master commit test2.txt)
 hot_fix.txt(my hot_fix commit) 有陈卓信编写edit by MRCHEN
+hot_fix.txt(my hot_fix commit) 有陈卓信编写edit by MRCHEN
+hot_fix.txt(my hot_fix commit) 有陈卓信编写edit by MRCHEN
+hot_fix.txt(my hot_fix commit) 有陈卓信编写edit by MRCHEN
+hot_fix.txt(my hot_fix commit) 有陈卓信编写edit by MRCHEN
+hot_fix.txt(my hot_fix commit) 有陈卓信编写edit by MRCHEN
+clone from MRCHEN
+clone from MRCHEN
+clone from MRCHEN
+clone from MRCHEN
+clone from MRCHEN
+clone from MRCHEN
+clone from MRCHEN
+clone from MRCHEN
+clone from MRCHEN
+clone from MRCHEN
+clone from MRCHEN
 clone from MRCHEN
 push by MRCHEN-min 
 push by MRCHEN-min 
