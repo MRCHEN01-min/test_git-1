@@ -4,3 +4,6 @@ test2.txt(master commit test2.txt)
 hot_fix.txt(my hot_fix commit)
 clone from MRCHEN
 push by MRCHEN-min 
+push by MRCHEN-min 
+push by MRCHEN-min 
+push by MRCHEN-min 
