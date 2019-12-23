@@ -2,3 +2,4 @@ test1.txt(my first commit test1.txt)
 hot_fix (my hot_fix commit)
 test2.txt(master commit test2.txt)
 hot_fix.txt(my hot_fix commit)
+clone from MRCHEN
